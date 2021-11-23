@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to Burak Güzin's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BU-FE-588/fall21-BurakGuzin-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my [Progress Journal website](https://github.com/BU-FE-588/fall21-BurakGuzin-1/edit/gh-pages/index.md) created for FE 588 SP.TP.PYTHON PROGRAMMING FOR FINANCE course at Bogazici University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Homework Assignments
+There will be  homework assignments during the course.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BU-FE-588/fall21-BurakGuzin-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Homework Assignment 1 and 2
+* [FE588: Homework 1 and 2](https://github.com/BU-FE-588/fall21-BurakGuzin-1/blob/9e0ed5b97532ea5a0dfd30afa9643894587af7f8/Homework%201%20and%202%20Answers.ipynb)
