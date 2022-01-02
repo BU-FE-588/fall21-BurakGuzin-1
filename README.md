@@ -7,3 +7,5 @@ There will be  homework assignments during the course.
 
 ### Homework Assignment 1 and 2
 * [FE588: Homework 1 and 2](https://github.com/BU-FE-588/fall21-BurakGuzin-1/blob/9e0ed5b97532ea5a0dfd30afa9643894587af7f8/Homework%201%20and%202%20Answers.ipynb)
+### Homework Assignment 3 and 4
+* [FE588: Homework 3 and 4](https://github.com/BU-FE-588/fall21-BurakGuzin-1/blob/gh-pages/Homework%203%20and%204%20Answers.ipynb%20)
