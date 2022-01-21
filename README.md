@@ -9,3 +9,5 @@ There will be  homework assignments during the course.
 * [FE588: Homework 1 and 2](https://github.com/BU-FE-588/fall21-BurakGuzin-1/blob/9e0ed5b97532ea5a0dfd30afa9643894587af7f8/Homework%201%20and%202%20Answers.ipynb)
 ### Homework Assignment 3 and 4
 * [FE588: Homework 3 and 4](https://github.com/BU-FE-588/fall21-BurakGuzin-1/blob/5d1af2c40a614db4af2270f46156e207e94d4492/Homework%203%20and%204%20Answers.ipynb)
+### Homework Assignment 5
+* [FE588: Homework 5](https://github.com/BU-FE-588/fall21-BurakGuzin-1/blob/836822fa94d17391836bd9c6181c8e15d001b9b4/Homework%205.ipynb)
